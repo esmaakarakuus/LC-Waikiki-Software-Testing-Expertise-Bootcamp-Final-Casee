@@ -64,13 +64,10 @@ Kullanıcıların LC Waikiki web sitesinde belirli bir akışı takip ederek al�
 
 1. **Testleri Çalıştır**  
 mvn clean test
-markdown
-KopyalaDüzenle
+
 
 2. **Raporları Görüntüle**  
 allure serve target/allure-results
-yaml
-KopyalaDüzenle
 
 ---
 
